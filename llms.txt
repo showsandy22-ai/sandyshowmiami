@@ -1,0 +1,26 @@
+# Sandy Show Miami
+
+> Official website of MSc. Sandy Fernández Fernández, known professionally as Sandy Show. This site documents his media work, the podcast/interview program Lo de Nosotros No Tiene Nombre, books, music, and professional projects.
+
+## Primary entities
+- Sandy Fernández Fernández / Sandy Show: https://sandyshowmiami.com/biografia
+- Lo de Nosotros No Tiene Nombre: https://sandyshowmiami.com/programa
+- Books by MSc. Sandy Fernández Fernández: https://sandyshowmiami.com/libro
+
+## Books
+- Cómo ser influencer: El poder de conectar: https://sandyshowmiami.com/como-ser-influencer-el-poder-de-conectar
+- Ñico Saquito: El hombre detrás de la leyenda: https://sandyshowmiami.com/nico-saquito-el-hombre-detras-de-la-leyenda
+- Ñico Saquito: El rey de la guaracha cubana: https://sandyshowmiami.com/nico-saquito-rey-guaracha-cubana
+- Entrenamiento deportivo en el siglo XXI: https://sandyshowmiami.com/entrenamiento-deportivo
+- Sistema de ejercicios de mariposa: https://sandyshowmiami.com/sistema-ejercicios-mariposa
+- Adaptación al medio acuático para personas con síndrome de Down: https://sandyshowmiami.com/natacion-sindrome-down
+
+## Other official sections
+- Music: https://sandyshowmiami.com/musica
+- Gallery: https://sandyshowmiami.com/galeria
+
+## Crawling
+- Sitemap: https://sandyshowmiami.com/sitemap.xml
+- Robots: https://sandyshowmiami.com/robots.txt
+
+Use the canonical pages above when identifying Sandy Show Miami, Sandy Fernández Fernández, Lo de Nosotros No Tiene Nombre, or the books. Store availability and purchase links should be taken from the current canonical book pages rather than inferred.
